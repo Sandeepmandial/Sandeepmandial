@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @Sandeepmandial
 - 👀 I’m interested in Web programming and cloud computing 
 - 🌱 I’m currently learning cloud computing and DevOps 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:-sandeepthakhur16@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Sandeepmandial/Sandeepmandial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
